@@ -1,4 +1,4 @@
-# STAT479-FIFA-Project
+# STAT479 FIFA Project Introduction
 This project is the coursework for STAT 479, in which we create a fifa player dashboard based on 2015-2021 FIFA complete player data set, which includes the players data for the Career Mode from FIFA 15 to FIFA 21. (See https://www.kaggle.com/stefanoleone992/fifa-21-complete-player- dataset?select=Career+Mode+player+datasets+-+FIFA+15-21.xlsx)
 
 There are four folders providing more details in our main project: *Dataset*, *Code*, *Figures*, *Milestones*.
